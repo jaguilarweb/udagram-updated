@@ -51,3 +51,10 @@ jobs:
           command: |
             npm run deploy
 
+workflows:
+  pipeline:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only: master
