@@ -27,7 +27,7 @@ The steps re:
 
 ## Diagram
 
-![](https://github.com/jaguilarweb/udagram/blob/master/documents/pipeline.png)
+![](https://github.com/jaguilarweb/udagram-updated/blob/master/documents/pipeline.png)
 
 
 

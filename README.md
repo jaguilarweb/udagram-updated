@@ -13,26 +13,31 @@ The udagram application is a fairly simple application that includes all the maj
 ### Screenshot
 
 - Frontend available
-![](https://github.com/jaguilarweb/udagram/blob/master/documents/frontend_ok.png)
+![](https://github.com/jaguilarweb/udagram-updated/blob/master/documents/frontend_ok.png)
+
 
 - Backend available
-![](https://github.com/jaguilarweb/udagram/blob/master/documents/backend_ok.png)
+![](https://github.com/jaguilarweb/udagram-updated/blob/master/documents/backend_ok.png)
+
 
 - The last successful CircleCi build
-![](https://github.com/jaguilarweb/udagram/blob/master/documents/circleci_ok.png)
+![](https://github.com/jaguilarweb/udagram-updated/blob/master/documents/circleci_ok.png)
+
 
 - Environment variables (CircleCi)
-![](https://github.com/jaguilarweb/udagram/blob/master/documents/circleci_env.png)
+![](https://github.com/jaguilarweb/udagram-updated/blob/master/documents/circleci_env.png)
 
 
 - AWS RDS for the database
-![](https://github.com/jaguilarweb/udagram/blob/master/documents/db_rds.png)
+![](https://github.com/jaguilarweb/udagram-updated/blob/master/documents/db_rds.png)
+
 
 - AWS ElasticBeanstalk for de (backend) API deployment.
-![](https://github.com/jaguilarweb/udagram/blob/master/documents/beanstalk_ok.png)
+![](https://github.com/jaguilarweb/udagram-updated/blob/master/documents/beanstalk_ok.png)
+
 
 - AWS S3 for (frontend) web hosting
-![](https://github.com/jaguilarweb/udagram/blob/master/documents/buckets_ok.png)
+![](https://github.com/jaguilarweb/udagram-updated/blob/master/documents/buckets_ok.png)
 
 
 ## Links to host
@@ -42,7 +47,6 @@ http://fsndjs-udagram.s3-website-us-east-1.amazonaws.com/
 
 ElastickBeanstalk (backend)
 http://udagram-api-dev22222.us-east-1.elasticbeanstalk.com/api/v0/feed
-
 
 
 ### Tests
