@@ -12,40 +12,43 @@ The udagram application is a fairly simple application that includes all the maj
 
 ### Screenshot
 
-(OF the working application)
+- Frontend available
+![](https://github.com/jaguilarweb/udagram/blob/master/documents/frontend_ok.png)
+
+- Backend available
+![](https://github.com/jaguilarweb/udagram/blob/master/documents/backend_ok.png)
 
 - The last successful CircleCi build
-(Supply diferent screenshot for phases - build, hold, deploy)
+![](https://github.com/jaguilarweb/udagram/blob/master/documents/circleci_ok.png)
+
+- Environment variables (CircleCi)
+![](https://github.com/jaguilarweb/udagram/blob/master/documents/circleci_env.png)
+
 
 - AWS RDS for the database
+![](https://github.com/jaguilarweb/udagram/blob/master/documents/db_rds.png)
+
 - AWS ElasticBeanstalk for de (backend) API deployment.
+![](https://github.com/jaguilarweb/udagram/blob/master/documents/beanstalk_ok.png)
+
 - AWS S3 for (frontend) web hosting
-
-### Arquitecture Diagram (high level overview of the infraestructure)
-
-
+![](https://github.com/jaguilarweb/udagram/blob/master/documents/buckets_ok.png)
 
 
 ## Links to host
 
+S3 (public)
+http://fsndjs-udagram.s3-website-us-east-1.amazonaws.com/
 
-## Testing
+ElastickBeanstalk (backend)
+http://udagram-api-dev22222.us-east-1.elasticbeanstalk.com/api/v0/feed
 
-This project contains two different test suite: unit tests and End-To-End tests(e2e). Follow these steps to run the tests.
 
-1. `cd starter/udagram-frontend`
-1. `npm run test`
-1. `npm run e2e`
 
-There are no Unit test on the back-end
+### Tests
 
-### Unit Tests:
+There are not tests in this project.
 
-Unit tests are using the Jasmine Framework.
-
-### End to End Tests:
-
-The e2e tests are using Protractor and Jasmine.
 
 ## Built With
 

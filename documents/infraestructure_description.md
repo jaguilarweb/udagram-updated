@@ -6,7 +6,7 @@ This project use the AWS Cloud as Infrastructure as a Service (IaaS).
 ## Infrastructure Diagram
 (IMG)
 
-![](https://github.com/jaguilarweb/udagram/blob/master/documentation/infraestructure-diagram.png)
+![](https://github.com/jaguilarweb/udagram/blob/master/documents/infraestructure-diagram.png)
 
 The diagram avobe includes the different AWS services used for hosting the API, Frontend, and the DB.
 
