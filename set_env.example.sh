@@ -9,3 +9,5 @@ export AWS_REGION=
 export AWS_PROFILE=
 export JWT_SECRET=
 export URL=
+export AWS_ACCESS_KEY_ID=
+export AWS_SECRET_ACCESS_KEY=
